@@ -3,15 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lucyyutingli.github.io./project/connecting-contexts/</loc>
+    <lastmod>2020-08-06T18:45:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lucyyutingli.github.io./</loc>
+    <lastmod>2020-08-06T18:45:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lucyyutingli.github.io./project/</loc>
+    <lastmod>2020-08-06T18:45:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lucyyutingli.github.io./tag/research/</loc>
+    <lastmod>2020-08-06T18:45:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lucyyutingli.github.io./tags/</loc>
+    <lastmod>2020-08-06T18:45:02-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lucyyutingli.github.io./project/cs-154/</loc>
+    <lastmod>2019-08-06T19:49:12-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lucyyutingli.github.io./project/chiventure/</loc>
+    <lastmod>2018-08-06T20:08:44-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lucyyutingli.github.io./authors/</loc>
   </url>
   
   <url>
     <loc>https://lucyyutingli.github.io./categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./</loc>
   </url>
   
   <url>
@@ -24,10 +55,6 @@
   
   <url>
     <loc>https://lucyyutingli.github.io./publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./tags/</loc>
   </url>
   
 </urlset>
