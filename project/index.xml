@@ -5,12 +5,20 @@
     <link>https://lucyyutingli.github.io./project/</link>
       <atom:link href="https://lucyyutingli.github.io./project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Aug 2020 18:45:02 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 00:04:50 -0700</lastBuildDate>
     <image>
       <url>https://lucyyutingli.github.io./images/icon_hued7f7d1360a0e4d75700b70dd3d270bd_37668_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://lucyyutingli.github.io./project/</link>
     </image>
+    
+    <item>
+      <title>Monopoly without the Pain</title>
+      <link>https://lucyyutingli.github.io./project/monopoly-without-the-pain/</link>
+      <pubDate>Mon, 21 Sep 2020 00:04:50 -0700</pubDate>
+      <guid>https://lucyyutingli.github.io./project/monopoly-without-the-pain/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Connecting Contexts</title>
