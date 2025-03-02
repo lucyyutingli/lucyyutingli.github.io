@@ -1,11 +1,194 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on </title>
-    <link>//localhost:1313/tags/</link>
-    <description>Recent content in Tags on </description>
+    <title>Tags on Lucy Li</title>
+    <link>https://lucyyutingli.com/tags/</link>
+    <description>Recent content in Tags on Lucy Li</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
+    <atom:link href="https://lucyyutingli.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://lucyyutingli.com/tags/docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>https://lucyyutingli.com/tags/javascript/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JSON</title>
+      <link>https://lucyyutingli.com/tags/json/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/json/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Node.js</title>
+      <link>https://lucyyutingli.com/tags/node.js/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/node.js/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>REST APIs</title>
+      <link>https://lucyyutingli.com/tags/rest-apis/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atlassian Ecosystem</title>
+      <link>https://lucyyutingli.com/tags/atlassian-ecosystem/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://lucyyutingli.com/tags/atlassian-ecosystem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bash/Shell</title>
+      <link>https://lucyyutingli.com/tags/bash/shell/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://lucyyutingli.com/tags/bash/shell/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>BOSH</title>
+      <link>https://lucyyutingli.com/tags/bosh/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://lucyyutingli.com/tags/bosh/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DevOps</title>
+      <link>https://lucyyutingli.com/tags/devops/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://lucyyutingli.com/tags/devops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>https://lucyyutingli.com/tags/java/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://lucyyutingli.com/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Monit</title>
+      <link>https://lucyyutingli.com/tags/monit/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://lucyyutingli.com/tags/monit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://lucyyutingli.com/tags/python/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://lucyyutingli.com/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xml/Xslt</title>
+      <link>https://lucyyutingli.com/tags/xml/xslt/</link>
+      <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
+      <guid>https://lucyyutingli.com/tags/xml/xslt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Apache</title>
+      <link>https://lucyyutingli.com/tags/apache/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/apache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Redirect</title>
+      <link>https://lucyyutingli.com/tags/redirect/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/redirect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rewrite</title>
+      <link>https://lucyyutingli.com/tags/rewrite/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/rewrite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ssl</title>
+      <link>https://lucyyutingli.com/tags/ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/ssl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web Development</title>
+      <link>https://lucyyutingli.com/tags/web-development/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/web-development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Atlassian Developer Ecosystem</title>
+      <link>https://lucyyutingli.com/tags/atlassian-developer-ecosystem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/atlassian-developer-ecosystem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bamboo</title>
+      <link>https://lucyyutingli.com/tags/bamboo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/bamboo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Bitbucket</title>
+      <link>https://lucyyutingli.com/tags/bitbucket/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/bitbucket/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Confluence</title>
+      <link>https://lucyyutingli.com/tags/confluence/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/confluence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JIRA</title>
+      <link>https://lucyyutingli.com/tags/jira/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/jira/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JQuery</title>
+      <link>https://lucyyutingli.com/tags/jquery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/jquery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maven</title>
+      <link>https://lucyyutingli.com/tags/maven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/maven/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring</title>
+      <link>https://lucyyutingli.com/tags/spring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lucyyutingli.com/tags/spring/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

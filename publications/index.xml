@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Lucy Li</title>
+    <link>http://localhost:1313/publications/</link>
+    <description>Recent content in Publications on Lucy Li</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Research Related to Designing for Children&#39;s Privacy and Security: A Document Analysis</title>
+      <link>http://localhost:1313/publications/alldaydevops/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/alldaydevops/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
