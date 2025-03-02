@@ -1,66 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lucy Y. Li</title>
-    <link>https://lucyyutingli.github.io./</link>
-      <atom:link href="https://lucyyutingli.github.io./index.xml" rel="self" type="application/rss+xml" />
-    <description>Lucy Y. Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 21 Sep 2020 00:04:50 -0700</lastBuildDate>
-    <image>
-      <url>https://lucyyutingli.github.io./images/icon_hued7f7d1360a0e4d75700b70dd3d270bd_37668_512x512_fill_lanczos_center_2.png</url>
-      <title>Lucy Y. Li</title>
-      <link>https://lucyyutingli.github.io./</link>
-    </image>
-    
-    <item>
-      <title>Monopoly without the Pain</title>
-      <link>https://lucyyutingli.github.io./project/monopoly-without-the-pain/</link>
-      <pubDate>Mon, 21 Sep 2020 00:04:50 -0700</pubDate>
-      <guid>https://lucyyutingli.github.io./project/monopoly-without-the-pain/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Connecting Contexts</title>
-      <link>https://lucyyutingli.github.io./project/connecting-contexts/</link>
-      <pubDate>Thu, 06 Aug 2020 18:45:02 -0700</pubDate>
-      <guid>https://lucyyutingli.github.io./project/connecting-contexts/</guid>
-      <description>&lt;p&gt;This project centers on understanding how children view online privacy and security, with its main goal to develop a lesson plan that educates them on their digital footprint. Along with this initial goal, we have developed the project to add a new aspect interested in privacy and security issues that arise when participating in remote learning due to COVID-19. This project is a collaboration between University of Chicago and University of Maryland.&lt;/p&gt;
-&lt;p&gt;Once this project has its own webpage, I shall update this link.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Introduction to Programming Languages</title>
-      <link>https://lucyyutingli.github.io./project/cs-221/</link>
-      <pubDate>Sat, 06 Jun 2020 23:39:48 -0700</pubDate>
-      <guid>https://lucyyutingli.github.io./project/cs-221/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reimagined Vis: v_a11y_lint</title>
-      <link>https://lucyyutingli.github.io./project/reimagined-vis/</link>
-      <pubDate>Fri, 07 Feb 2020 00:04:50 -0700</pubDate>
-      <guid>https://lucyyutingli.github.io./project/reimagined-vis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Introduction to Computer Systems</title>
-      <link>https://lucyyutingli.github.io./project/cs-154/</link>
-      <pubDate>Tue, 06 Aug 2019 19:49:12 -0700</pubDate>
-      <guid>https://lucyyutingli.github.io./project/cs-154/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chiventure</title>
-      <link>https://lucyyutingli.github.io./project/chiventure/</link>
-      <pubDate>Mon, 06 Aug 2018 20:08:44 -0700</pubDate>
-      <guid>https://lucyyutingli.github.io./project/chiventure/</guid>
-      <description></description>
-    </item>
-    
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,85 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://lucyyutingli.github.io./</loc>
-    <lastmod>2020-09-21T00:04:50-07:00</lastmod>
+    <loc>//localhost:1313/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
   </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./project/monopoly-without-the-pain/</loc>
-    <lastmod>2020-09-21T00:04:50-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./tag/personal-projects/</loc>
-    <lastmod>2020-09-21T00:04:50-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./project/</loc>
-    <lastmod>2020-09-21T00:04:50-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./tags/</loc>
-    <lastmod>2020-09-21T00:04:50-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./project/connecting-contexts/</loc>
-    <lastmod>2020-08-06T18:45:02-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./tag/research/</loc>
-    <lastmod>2020-08-06T18:45:02-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./tag/coursework/</loc>
-    <lastmod>2020-06-06T23:39:48-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./project/cs-221/</loc>
-    <lastmod>2020-06-06T23:39:48-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./project/reimagined-vis/</loc>
-    <lastmod>2020-02-07T00:04:50-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./project/cs-154/</loc>
-    <lastmod>2019-08-06T19:49:12-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./project/chiventure/</loc>
-    <lastmod>2018-08-06T20:08:44-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./author/lucy-yuting-li/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://lucyyutingli.github.io./publication/</loc>
-  </url>
-  
 </urlset>
