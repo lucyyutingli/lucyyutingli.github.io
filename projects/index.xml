@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Lucy Li</title>
-    <link>https://lucyyutingli.com/projects/</link>
+    <link>https://lucyyutingli.github.io/projects/</link>
     <description>Recent content in Projects on Lucy Li</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://lucyyutingli.com/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lucyyutingli.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

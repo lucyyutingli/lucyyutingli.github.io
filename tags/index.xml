@@ -2,192 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Lucy Li</title>
-    <link>https://lucyyutingli.com/tags/</link>
+    <link>https://lucyyutingli.github.io/tags/</link>
     <description>Recent content in Tags on Lucy Li</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Jan 2020 17:09:26 +0000</lastBuildDate>
-    <atom:link href="https://lucyyutingli.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://lucyyutingli.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
-      <link>https://lucyyutingli.com/tags/docker/</link>
+      <link>https://lucyyutingli.github.io/tags/docker/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/docker/</guid>
+      <guid>https://lucyyutingli.github.io/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Javascript</title>
-      <link>https://lucyyutingli.com/tags/javascript/</link>
+      <link>https://lucyyutingli.github.io/tags/javascript/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/javascript/</guid>
+      <guid>https://lucyyutingli.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>JSON</title>
-      <link>https://lucyyutingli.com/tags/json/</link>
+      <link>https://lucyyutingli.github.io/tags/json/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/json/</guid>
+      <guid>https://lucyyutingli.github.io/tags/json/</guid>
       <description></description>
     </item>
     <item>
       <title>Node.js</title>
-      <link>https://lucyyutingli.com/tags/node.js/</link>
+      <link>https://lucyyutingli.github.io/tags/node.js/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/node.js/</guid>
+      <guid>https://lucyyutingli.github.io/tags/node.js/</guid>
       <description></description>
     </item>
     <item>
       <title>REST APIs</title>
-      <link>https://lucyyutingli.com/tags/rest-apis/</link>
+      <link>https://lucyyutingli.github.io/tags/rest-apis/</link>
       <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/rest-apis/</guid>
+      <guid>https://lucyyutingli.github.io/tags/rest-apis/</guid>
       <description></description>
     </item>
     <item>
       <title>Atlassian Ecosystem</title>
-      <link>https://lucyyutingli.com/tags/atlassian-ecosystem/</link>
+      <link>https://lucyyutingli.github.io/tags/atlassian-ecosystem/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>https://lucyyutingli.com/tags/atlassian-ecosystem/</guid>
+      <guid>https://lucyyutingli.github.io/tags/atlassian-ecosystem/</guid>
       <description></description>
     </item>
     <item>
       <title>Bash/Shell</title>
-      <link>https://lucyyutingli.com/tags/bash/shell/</link>
+      <link>https://lucyyutingli.github.io/tags/bash/shell/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>https://lucyyutingli.com/tags/bash/shell/</guid>
+      <guid>https://lucyyutingli.github.io/tags/bash/shell/</guid>
       <description></description>
     </item>
     <item>
       <title>BOSH</title>
-      <link>https://lucyyutingli.com/tags/bosh/</link>
+      <link>https://lucyyutingli.github.io/tags/bosh/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>https://lucyyutingli.com/tags/bosh/</guid>
+      <guid>https://lucyyutingli.github.io/tags/bosh/</guid>
       <description></description>
     </item>
     <item>
       <title>DevOps</title>
-      <link>https://lucyyutingli.com/tags/devops/</link>
+      <link>https://lucyyutingli.github.io/tags/devops/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>https://lucyyutingli.com/tags/devops/</guid>
+      <guid>https://lucyyutingli.github.io/tags/devops/</guid>
       <description></description>
     </item>
     <item>
       <title>Java</title>
-      <link>https://lucyyutingli.com/tags/java/</link>
+      <link>https://lucyyutingli.github.io/tags/java/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>https://lucyyutingli.com/tags/java/</guid>
+      <guid>https://lucyyutingli.github.io/tags/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Monit</title>
-      <link>https://lucyyutingli.com/tags/monit/</link>
+      <link>https://lucyyutingli.github.io/tags/monit/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>https://lucyyutingli.com/tags/monit/</guid>
+      <guid>https://lucyyutingli.github.io/tags/monit/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>https://lucyyutingli.com/tags/python/</link>
+      <link>https://lucyyutingli.github.io/tags/python/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>https://lucyyutingli.com/tags/python/</guid>
+      <guid>https://lucyyutingli.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>Xml/Xslt</title>
-      <link>https://lucyyutingli.com/tags/xml/xslt/</link>
+      <link>https://lucyyutingli.github.io/tags/xml/xslt/</link>
       <pubDate>Sun, 11 Feb 2018 12:41:05 -0500</pubDate>
-      <guid>https://lucyyutingli.com/tags/xml/xslt/</guid>
+      <guid>https://lucyyutingli.github.io/tags/xml/xslt/</guid>
       <description></description>
     </item>
     <item>
       <title>Apache</title>
-      <link>https://lucyyutingli.com/tags/apache/</link>
+      <link>https://lucyyutingli.github.io/tags/apache/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/apache/</guid>
+      <guid>https://lucyyutingli.github.io/tags/apache/</guid>
       <description></description>
     </item>
     <item>
       <title>Redirect</title>
-      <link>https://lucyyutingli.com/tags/redirect/</link>
+      <link>https://lucyyutingli.github.io/tags/redirect/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/redirect/</guid>
+      <guid>https://lucyyutingli.github.io/tags/redirect/</guid>
       <description></description>
     </item>
     <item>
       <title>Rewrite</title>
-      <link>https://lucyyutingli.com/tags/rewrite/</link>
+      <link>https://lucyyutingli.github.io/tags/rewrite/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/rewrite/</guid>
+      <guid>https://lucyyutingli.github.io/tags/rewrite/</guid>
       <description></description>
     </item>
     <item>
       <title>Ssl</title>
-      <link>https://lucyyutingli.com/tags/ssl/</link>
+      <link>https://lucyyutingli.github.io/tags/ssl/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/ssl/</guid>
+      <guid>https://lucyyutingli.github.io/tags/ssl/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Development</title>
-      <link>https://lucyyutingli.com/tags/web-development/</link>
+      <link>https://lucyyutingli.github.io/tags/web-development/</link>
       <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/web-development/</guid>
+      <guid>https://lucyyutingli.github.io/tags/web-development/</guid>
       <description></description>
     </item>
     <item>
       <title>Atlassian Developer Ecosystem</title>
-      <link>https://lucyyutingli.com/tags/atlassian-developer-ecosystem/</link>
+      <link>https://lucyyutingli.github.io/tags/atlassian-developer-ecosystem/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/atlassian-developer-ecosystem/</guid>
+      <guid>https://lucyyutingli.github.io/tags/atlassian-developer-ecosystem/</guid>
       <description></description>
     </item>
     <item>
       <title>Bamboo</title>
-      <link>https://lucyyutingli.com/tags/bamboo/</link>
+      <link>https://lucyyutingli.github.io/tags/bamboo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/bamboo/</guid>
+      <guid>https://lucyyutingli.github.io/tags/bamboo/</guid>
       <description></description>
     </item>
     <item>
       <title>Bitbucket</title>
-      <link>https://lucyyutingli.com/tags/bitbucket/</link>
+      <link>https://lucyyutingli.github.io/tags/bitbucket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/bitbucket/</guid>
+      <guid>https://lucyyutingli.github.io/tags/bitbucket/</guid>
       <description></description>
     </item>
     <item>
       <title>Confluence</title>
-      <link>https://lucyyutingli.com/tags/confluence/</link>
+      <link>https://lucyyutingli.github.io/tags/confluence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/confluence/</guid>
+      <guid>https://lucyyutingli.github.io/tags/confluence/</guid>
       <description></description>
     </item>
     <item>
       <title>JIRA</title>
-      <link>https://lucyyutingli.com/tags/jira/</link>
+      <link>https://lucyyutingli.github.io/tags/jira/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/jira/</guid>
+      <guid>https://lucyyutingli.github.io/tags/jira/</guid>
       <description></description>
     </item>
     <item>
       <title>JQuery</title>
-      <link>https://lucyyutingli.com/tags/jquery/</link>
+      <link>https://lucyyutingli.github.io/tags/jquery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/jquery/</guid>
+      <guid>https://lucyyutingli.github.io/tags/jquery/</guid>
       <description></description>
     </item>
     <item>
       <title>Maven</title>
-      <link>https://lucyyutingli.com/tags/maven/</link>
+      <link>https://lucyyutingli.github.io/tags/maven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/maven/</guid>
+      <guid>https://lucyyutingli.github.io/tags/maven/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring</title>
-      <link>https://lucyyutingli.com/tags/spring/</link>
+      <link>https://lucyyutingli.github.io/tags/spring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://lucyyutingli.com/tags/spring/</guid>
+      <guid>https://lucyyutingli.github.io/tags/spring/</guid>
       <description></description>
     </item>
   </channel>
